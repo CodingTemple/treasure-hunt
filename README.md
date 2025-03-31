@@ -1,0 +1,10 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17538574)
+THIS ENTIRE ACTIVITY IS DONE USING THE TERMINAL SHELL
+
+OPEN THIS ACTIVITY IN A CODESPACE, THEN OPEN A NEW TERMINAL.
+
+TYPE THE FOLLOWING COMMANDS IN THE SHELL TO START:
+1. cd TreasureHunt
+2. more start.txt
+
+WHEN FINISHED WITH THE ACTIVITY, SUBMIT THE LINK TO YOUR GITHUB REPOSITORY TO CANVAS.
